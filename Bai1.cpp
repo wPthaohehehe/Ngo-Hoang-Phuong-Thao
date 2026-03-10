@@ -15,5 +15,6 @@ int main(){
 	else{
 		cout<<"Yeu";
 	}
+	cout<<"Pthao"<<endl;
 	return 0;
 }
